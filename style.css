@@ -1,0 +1,35 @@
+body {
+  background-image: url("images/unchi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#container {
+  width: 800px;
+  margin: auto;
+  background: url("images/dd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  padding: 40px;
+  height: 80px;
+}
+
+nav {
+  padding: 8px 40px;
+  color: white;
+}
+
+#contents {
+  padding: 40px;
+  height: 400px;
+}
+
+footer {
+  padding: 40px;
+  height: 40px;
+  color: white;
+}
